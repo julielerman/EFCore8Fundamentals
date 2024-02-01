@@ -1,6 +1,6 @@
 # Pluralsight EF Core 8 Fundamentals  
 
-All code samples for [EF Core 8 Fundamentals on Pluralsight](https://www.pluralsight.com/courses/ef-core-8-fundamentals))  
+All code samples for [EF Core 8 Fundamentals on Pluralsight](https://www.pluralsight.com/courses/ef-core-8-fundamentals)  
 Published January 2024 
 
 Samples are organized by module with before and after versions. The last 3 modules (14, 15, 16) don't have before and after. They just have solutions that were discussed in those modules.
