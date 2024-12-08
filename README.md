@@ -1,5 +1,7 @@
 # Pluralsight EF Core 8 Fundamentals  
 
+### 📢 December 2024: EF Core 9 Version of this repo is in the works.
+
 All code samples for [EF Core 8 Fundamentals on Pluralsight](https://www.pluralsight.com/courses/ef-core-8-fundamentals)  
 Published January 2024 
 
